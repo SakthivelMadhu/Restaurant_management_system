@@ -18,8 +18,14 @@ How to create an account in fast2sms: <br>
 * goto Dev Api -> copy authorization  , get API
 
 clone My Project: <br> 
-https://github.com/SakthivelMadhu/Restaurant_management_system <br>
+```bash
+https://github.com/SakthivelMadhu/Restaurant_management_system 
+```
 
+Live Demo: <br>
+```bash
+https://drive.google.com/file/d/1mGi9u6EulahmbJcY5O-f4jUn8SgVrDaf/view?usp=sharing
+```
 
 Home Page: <br>
 ![Screenshot 2023-07-19 132753](https://github.com/SakthivelMadhu/Restaurant_management_system/assets/62326876/703e44bc-73d3-4f44-83e2-39526587def2)
